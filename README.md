@@ -7,17 +7,21 @@ Currently the website is hosted on the private server only. Production build wil
 Frontend URL - Open [http://localhost:3000](http://localhost:3000)  
 Backend URL - Open [http://localhost:5000](http://localhost:5000)
 
-For detailed instructions to run the REACT application, please check the README file in the /frontend folder
+For detailed instructions to install and run the REACT application, please check the README file in the /frontend folder
+
+## Demo of Checkout Process in the Frontend
+
+https://github.com/UdynGP/amazon-clone/assets/62198309/87c1097a-581b-440b-b067-c2b9b35be173
+
+## Project Report ---> Please check the PDF file for the UI Screenshots
+
+[Major Project_Udayan Gupta_Full Stack December Batch.pdf](https://github.com/UdynGP/amazon-clone/files/14813599/Major.Project_Udayan.Gupta_Full.Stack.December.Batch.pdf)
 
 ## Details and installation procedure for express.js
 
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
   Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
-
-  [![NPM Version][npm-version-image]][npm-url]
-  [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
-  [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
 
 ```js
 const express = require('express')
@@ -30,7 +34,7 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
-## Installation
+## Installation Guidelines for npmjs
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
@@ -50,11 +54,3 @@ $ npm install express
 
 Follow [our installing guide](http://expressjs.com/en/starter/installing.html)
 for more information.
-
-## Demo of Checkout Process
-
-https://github.com/UdynGP/amazon-clone/assets/62198309/87c1097a-581b-440b-b067-c2b9b35be173
-
-## Project Report ---> Please check the PDF file for the UI Screenshots
-
-[Major Project_Udayan Gupta_Full Stack December Batch.pdf](https://github.com/UdynGP/amazon-clone/files/14813599/Major.Project_Udayan.Gupta_Full.Stack.December.Batch.pdf)
