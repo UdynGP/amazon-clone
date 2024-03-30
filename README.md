@@ -3,7 +3,8 @@ Implemented a clone of amazon.com ecommerce website. Used the MERN tech stack fo
 
 ## App Info
 Currently the website is hosted on the private server only. Production build will be deployed in due course.
-Frontend URL - Open [http://localhost:3000](http://localhost:3000)
+
+Frontend URL - Open [http://localhost:3000](http://localhost:3000)  
 Backend URL - Open [http://localhost:5000](http://localhost:5000)
 
 For detailed instructions to run the React application, please check the README file in the /frontend folder
