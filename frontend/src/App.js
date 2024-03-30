@@ -1,5 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 import Home from "./pages/HomePage/Home";
 import Cart from "./pages/CartPage/Cart";
 import Categories from "./pages/CategoriesPage/Categories";
@@ -9,8 +10,6 @@ import Signup from "./pages/SignUpPage/Signup";
 import ResetPassword from "./pages/ResetPasswordPage/ResetPassword";
 import PageNotFound from "./pages/pageNotFoundPage/PageNotFound";
 import ExternalRedirect from "./components/ExternalRedirect";
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 import Products from "./pages/ProductsPage/Products";
 import About from "./pages/AboutPage/About";
 import Contact from "./pages/ContactPage/Contact";
@@ -20,6 +19,7 @@ import Orders from "./pages/OrdersPage/Orders";
 import Profile from "./pages/ProfilePage/Profile";
 import PrivateRoute from "./PrivateRoute";
 import SearchResults from "./pages/SearchResultsPage/SearchResults";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
