@@ -1,5 +1,5 @@
 # A Full Stack Ecommerce Application 
-Implemented a clone of amazon.com ecommerce website. Used the MERN tech stack for the Development process.
+Implemented a clone of Amazon.com ecommerce website. Used the MERN tech stack for the Development process.
 
 ## App Info
 Currently the website is hosted on the private server only. Production build will be deployed in due course.
