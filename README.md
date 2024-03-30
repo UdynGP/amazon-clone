@@ -7,7 +7,7 @@ Currently the website is hosted on the private server only. Production build wil
 Frontend URL - Open [http://localhost:3000](http://localhost:3000)  
 Backend URL - Open [http://localhost:5000](http://localhost:5000)
 
-For detailed instructions to run the React application, please check the README file in the /frontend folder
+For detailed instructions to run the REACT application, please check the README file in the /frontend folder
 
 ## Details and installation procedure for express.js
 
