@@ -1,0 +1,33 @@
+.cartProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cartProduct__info {
+  padding-left: 20px;
+}
+
+.cartProduct__info > button {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  height: 30px;
+  width: 90px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.cartProduct__image {
+  object-fit: contain;
+  width: 150px;
+  height: 150px;
+}
+
+.cartProduct__title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}

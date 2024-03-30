@@ -1,0 +1,61 @@
+/* UserProfile.css */
+.profile__container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile__heading {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.user__details {
+  margin-bottom: 20px;
+}
+
+.user__details > p {
+  font-size: 20px;
+}
+
+.edit__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.edit__form > label {
+  display: block; /* Display as block-level elements (one per line) */
+  font-weight: bold; /* Make the text bold */
+  margin-bottom: 8px;
+}
+
+.edit__form > label > input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.edit__button {
+  margin-top: 20px;
+  background-color: #f0c14b;
+  color: #111;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.save__button {
+  background-color: #f0c14b;
+  color: #111;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 18px;
+}
