@@ -15,7 +15,7 @@ const app = express();
 // Configure env
 dotenv.config();
 
-// Connect to Database
+// Connect to MongoDB Database
 connectDB();
 
 // PORT
